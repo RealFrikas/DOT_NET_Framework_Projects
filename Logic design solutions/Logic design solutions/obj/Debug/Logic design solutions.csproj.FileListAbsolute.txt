@@ -1,0 +1,15 @@
+C:\Users\kasta\source\repos\Logic design solutions\Logic design solutions\bin\Debug\Logic design solutions.exe.config
+C:\Users\kasta\source\repos\Logic design solutions\Logic design solutions\bin\Debug\Logic design solutions.exe.manifest
+C:\Users\kasta\source\repos\Logic design solutions\Logic design solutions\bin\Debug\Logic design solutions.application
+C:\Users\kasta\source\repos\Logic design solutions\Logic design solutions\bin\Debug\Logic design solutions.exe
+C:\Users\kasta\source\repos\Logic design solutions\Logic design solutions\bin\Debug\Logic design solutions.pdb
+C:\Users\kasta\source\repos\Logic design solutions\Logic design solutions\obj\Debug\Logic design solutions.csproj.AssemblyReference.cache
+C:\Users\kasta\source\repos\Logic design solutions\Logic design solutions\obj\Debug\Logic design solutions.csproj.SuggestedBindingRedirects.cache
+C:\Users\kasta\source\repos\Logic design solutions\Logic design solutions\obj\Debug\Logic_design_solutions.Form1.resources
+C:\Users\kasta\source\repos\Logic design solutions\Logic design solutions\obj\Debug\Logic_design_solutions.Properties.Resources.resources
+C:\Users\kasta\source\repos\Logic design solutions\Logic design solutions\obj\Debug\Logic design solutions.csproj.GenerateResource.cache
+C:\Users\kasta\source\repos\Logic design solutions\Logic design solutions\obj\Debug\Logic design solutions.csproj.CoreCompileInputs.cache
+C:\Users\kasta\source\repos\Logic design solutions\Logic design solutions\obj\Debug\Logic design solutions.exe.manifest
+C:\Users\kasta\source\repos\Logic design solutions\Logic design solutions\obj\Debug\Logic design solutions.application
+C:\Users\kasta\source\repos\Logic design solutions\Logic design solutions\obj\Debug\Logic design solutions.exe
+C:\Users\kasta\source\repos\Logic design solutions\Logic design solutions\obj\Debug\Logic design solutions.pdb

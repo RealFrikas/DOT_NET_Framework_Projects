@@ -1,0 +1,29 @@
+private void Makefunction(string table)
+        {
+            //passes labels to an array
+            Label Function = Controls.Find(table + "f", true).FirstOrDefault() as Label;
+            int[,] kmap = new int[5,2];
+            int k = 0;
+            for (int j = 0; j < 2; j++)
+            {
+                for (int i = 0; i < 4; i++)
+                {
+                    Label kmaploc = Controls.Find(table + k, true).FirstOrDefault() as Label;
+                    try
+                    {
+                        kmap[i,j] = Int32.Parse(kmaploc.Text);
+                    }
+                    catch (Exception)
+                    {
+                        kmap[i,j] = 2;
+                    }
+                    k++;
+                }
+            }
+            kmap[4, 0] = kmap[0, 0];
+            kmap[4, 1] = kmap[0, 1];
+        }
+
+                Makefunction("D0");
+                Makefunction("D1");
+                Makefunction("D2");
