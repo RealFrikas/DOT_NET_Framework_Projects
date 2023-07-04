@@ -1,0 +1,11 @@
+C:\Users\kasta\source\repos\Ses V2\Ses V2\bin\Debug\Ses V2.exe.config
+C:\Users\kasta\source\repos\Ses V2\Ses V2\bin\Debug\Ses V2.exe
+C:\Users\kasta\source\repos\Ses V2\Ses V2\bin\Debug\Ses V2.pdb
+C:\Users\kasta\source\repos\Ses V2\Ses V2\obj\Debug\Ses V2.csproj.AssemblyReference.cache
+C:\Users\kasta\source\repos\Ses V2\Ses V2\obj\Debug\Ses V2.csproj.SuggestedBindingRedirects.cache
+C:\Users\kasta\source\repos\Ses V2\Ses V2\obj\Debug\Ses_V2.Form1.resources
+C:\Users\kasta\source\repos\Ses V2\Ses V2\obj\Debug\Ses_V2.Properties.Resources.resources
+C:\Users\kasta\source\repos\Ses V2\Ses V2\obj\Debug\Ses V2.csproj.GenerateResource.cache
+C:\Users\kasta\source\repos\Ses V2\Ses V2\obj\Debug\Ses V2.csproj.CoreCompileInputs.cache
+C:\Users\kasta\source\repos\Ses V2\Ses V2\obj\Debug\Ses V2.exe
+C:\Users\kasta\source\repos\Ses V2\Ses V2\obj\Debug\Ses V2.pdb
